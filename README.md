@@ -24,6 +24,17 @@ A simple yet functional mobile e-commerce application built using **React Native
 - Cart Screen – Displays items added to cart
 - Checkout Screen – *(Optional)*
 
+## 📱 Screenshots
+![WhatsApp Image 2025-05-15 at 22 17 13](https://github.com/user-attachments/assets/53f2463a-619f-4f5b-b22e-319314336376)
+
+![WhatsApp Image 2025-05-16 at 21 34 30 (1)](https://github.com/user-attachments/assets/b30af1ef-93c2-4ab5-b1c8-bc9e8fc2ffb0)
+![WhatsApp Image 2025-05-16 at 21 34 30](https://github.com/user-attachments/assets/d27cb24f-2022-499f-b663-08ac205d1efb)
+![WhatsApp Image 2025-05-16 at 21 34 29](https://github.com/user-attachments/assets/8a249ae0-aa2a-489b-b9f1-82bdb89e5430)
+
+
+
+
+
 ## 🛠️ Installation
 
 ```bash

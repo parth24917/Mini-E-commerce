@@ -27,6 +27,6 @@ A simple yet functional mobile e-commerce application built using **React Native
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/mini-ecommerce-app.git
+git clone https://github.com/parth24917/Mini-E-commerce
 npm install
 npx expo run-android # or run-ios

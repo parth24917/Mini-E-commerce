@@ -15,8 +15,7 @@ A simple yet functional mobile e-commerce application built using **React Native
 
 - [React Native](https://reactnative.dev/)
 - [React Navigation](https://reactnavigation.org/)
-- [Axios](https://axios-http.com/) for API integration *(if used)*
-- [Redux](https://redux.js.org/) or Context API for state management *(optional)*
+-  Context API for state management 
 
 ## 📱 Screens
 
@@ -29,6 +28,5 @@ A simple yet functional mobile e-commerce application built using **React Native
 
 ```bash
 git clone https://github.com/yourusername/mini-ecommerce-app.git
-cd mini-ecommerce-app
 npm install
-npx react-native run-android # or run-ios
+npx expo run-android # or run-ios
